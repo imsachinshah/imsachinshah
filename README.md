@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi👋, I'm Sachin Shah
 
 <!--
 **imsachinshah/imsachinshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Flutter Project
 - 🌱 I’m currently learning Flutter Flamework
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about 
+      Python
+      Java
+      C++
+      Dart
+      Flutter
+- 📫 How to reach me: 
+      LinkedIn - [imsachinshah](https://linkedin.com/imsachinshah)
+      Twitter  - [imsachinshah](https://twitter.com/imsachinshah)
+      Instagram - [imsachinshah0](https://instagram.com/imsachinshah0)
+
+- ⚡ Fun fact I love to play chess and drink Coffee ☕ 
 

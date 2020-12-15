@@ -5,18 +5,17 @@
 -->
 
 
-- 🔭 I’m currently working on Flutter Project
-- 🌱 I’m currently learning Flutter Flamework
+- 🔭 I’m currently working on **Flutter Project**
+- 🌱 I’m currently learning **Flutter Flamework**
 - 💬 Ask me about 
-      Python
-      Java
-      C++
-      Dart
-      Flutter
+      - **Flutter**
+      - **Python**
+      - **Java**
+      - **C++**
 - 📫 How to reach me: 
-      LinkedIn - [imsachinshah](https://linkedin.com/imsachinshah)
-      Twitter  - [imsachinshah](https://twitter.com/imsachinshah)
-      Instagram - [imsachinshah0](https://instagram.com/imsachinshah0)
+      - **LinkedIn** - [imsachinshah](https://linkedin.com/imsachinshah)
+      - **Twitter**  - [imsachinshah](https://twitter.com/imsachinshah)
+      - **Instagram** - [imsachinshah0](https://instagram.com/imsachinshah0)
 
-- ⚡ Fun fact I love to play chess and drink Coffee ☕ 
+- ⚡ Fun fact **I love to play chess and drink Coffee ☕ **
 

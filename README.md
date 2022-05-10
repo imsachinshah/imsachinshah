@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Flutter Project**
 - 🌱 I’m currently learning **Flutter Flamework**
-- ⚡ Fun fact **I love to play chess and drink Coffee ☕ **
+- ⚡ Fun fact **I love to play chess and drink Coffee ☕**
 
 ### 📫 How to reach me: 
    - **LinkedIn** - [imsachinshah](https://linkedin.com/in/imsachinshah)

@@ -1,3 +1,9 @@
+<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Sachin Shah </h1>
+         
+
 # 💫 About Me:
 😄 Pronouns: He/His<br>🔭 I’m currently working on Flutter Projects.<br>👯 I’m looking to collaborate on insightful projects<br>🤝 I’m looking for Flutter Developer Internships.<br>🌱 I’m currently exploring new technologies.<br>💬 Ask me about tech-related stuff.<br>📫 How to reach me: Check the social links below.<br>⚡ Fun fact: I like Chai more than Coffee.
 

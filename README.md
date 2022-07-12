@@ -5,7 +5,8 @@
          
 
 # 💫 About Me:
-🔭 I’m currently working on Flutter Projects.<br>👯 I’m looking to collaborate on insightful projects<br>🤝 I’m looking for Flutter Developer Internships.<br>🌱 I’m currently exploring new technologies.<br>📫 How to reach me: Check the social links below.<br>⚡ Fun fact: I like Chai more than Coffee.
+🔭 I’m currently working on Flutter Projects.<br>👯 I’m looking to collaborate on insightful projects<br>🤝 I’m looking for Flutter Developer Internships.<br>🌱 I’m currently exploring new technologies.<br>📫 How to reach me: Check the social links below.<br>⚡ Fun fact: I like Chai more than Coffee. <br> <br> ![](https://komarev.com/ghpvc/?username=imsachinshah)
+
 
 
 ## 🌐 Socials:

@@ -5,7 +5,7 @@
          
 
 # 💫 About Me:
-🔭 I’m currently working on Front-end Projects.<br>👯 I’m looking to collaborate on insightful projects<br>🤝 I’m looking for Software Developer Jobs.<br>🌱 I’m currently exploring new technologies.<br>📫 How to reach me: Check the social links below.<br>⚡ Fun fact: I like Chai more than Coffee. <br> <br> ![](https://komarev.com/ghpvc/?username=imsachinshah)
+🔭 I’m currently working on Ruby on Rails Projects.<br>👯 I’m looking to collaborate on insightful projects<br> 🌱 I’m currently exploring new technologies.<br>📫 How to reach me: Check the social links below.<br>⚡ Fun fact: I like Chai more than Coffee. <br> <br> ![](https://komarev.com/ghpvc/?username=imsachinshah)
 
 
 
